@@ -64,14 +64,6 @@
 
 ---
 
-## 🏆 Reconocimientos
-
-- Finalista en hackathons universitarios
-- Colaborador en proyectos de código abierto
-- Mentor en comunidades de aprendizaje de Python y ciberseguridad
-
----
-
 <p align="center">
   <b>¡Gracias por visitar mi perfil! 🚀</b><br>
   <sub>Siempre abierto a nuevas ideas y colaboraciones.</sub>
