@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Alvaro Manzo!
+# 👋 ¡Hola, soy Alvaro!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alvaro--Manzo-181717?style=for-the-badge&logo=github)](https://github.com/Alvaro-Manzo)
 [![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
