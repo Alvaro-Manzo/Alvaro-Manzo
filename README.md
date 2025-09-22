@@ -25,6 +25,8 @@
 | 🔎 QR-BOT-TELEGRAM | Generador de códigos QR para Telegram | [Ver repo](https://github.com/Alvaro-Manzo/QR-BOT-TELEGRAM) |
 | 🤖 SPAMMER_BOT | Bot para pruebas de envío masivo | [Ver repo](https://github.com/Alvaro-Manzo/SPAMMER_BOT) |
 | 🧠 MI-1ERA-RED-NEURONAL | Primer red neuronal en Python | [Ver repo](https://github.com/Alvaro-Manzo/MI-1ERA-RED-NEURONAL) |
+| 🖥️ BOT DDOS| Bot para generar ataques DDOS controlados y ETICOS con GUI | [Ver repo]([https://github.com/Alvaro-Manzo/MI-1ERA-RED-NEURONAL](https://github.com/Alvaro-Manzo/DDOS)) |
+
 
 ---
 
