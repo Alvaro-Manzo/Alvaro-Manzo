@@ -54,6 +54,7 @@
 ## 📬 Contacto
 
 ¿Te interesa colaborar, tienes una idea o quieres preguntar algo?
+mandame un email a este correo:
 📧 **pedritosolasa8@gmail.com**
 
 ---
