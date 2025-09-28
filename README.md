@@ -70,5 +70,6 @@ mandame un email a este correo:
 
 <p align="center">
   <b>¡Gracias por visitar mi perfil! 🚀</b><br>
-  <sub>Siempre abierto a nuevas ideas y colaboraciones.</sub>
+  <sub>Siempre abierto a nuevas ideas y colaboraciones.
+:)</sub>
 </p>
