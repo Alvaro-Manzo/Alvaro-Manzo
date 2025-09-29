@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-¡Bienvenido a mi perfil! Soy un estudiante apasionado por la programación, la **ciberseguridad**, y la creación de soluciones innovadoras con **Python**. Me especializo en el desarrollo de bots para automatización, hacking ético y herramientas útiles tanto para el aprendizaje como para la práctica profesional.
+¡Bienvenido! Soy un estudiante apasionado por la programación, la **ciberseguridad**, y la creación de soluciones innovadoras con **Python**. Me especializo en el desarrollo de bots para automatización, hacking ético y herramientas útiles tanto para el aprendizaje como para la práctica profesional.
 
 > **"A programar se aprende programando."**
 
@@ -59,7 +59,7 @@ mandame un email a este correo:
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alvaro-Manzo&show_icons=true&theme=tokyonight" alt="Alvaro's GitHub Stats" />
