@@ -56,6 +56,7 @@
 ¿Te interesa colaborar, tienes una idea o quieres preguntar algo?
 mandame un email a este correo, te respondere pronto:
 📧 **pedritosolasa8@gmail.com**
+   **jogobonito029@gmail.com**
 
 ---
 
