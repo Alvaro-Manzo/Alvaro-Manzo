@@ -47,7 +47,7 @@
 - Inteligencia Artificial aplicada a bots
 - Desarrollo web con Python (Flask/Django)
 - Integración de APIs y servicios en bots
-- MALWARES para uso educativo, para enseñar a los demas :)
+- MALWARES para uso EDUCATIVO, para enseñar a los demas :)
 
 ---
 
