@@ -48,6 +48,7 @@
 - Desarrollo web con Python (Flask/Django)
 - Integración de APIs y servicios en bots
 - MALWARES para uso EDUCATIVO, para enseñar a los demas :)
+- Física 
 
 ---
 
