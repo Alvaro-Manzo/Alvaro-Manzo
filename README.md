@@ -20,7 +20,7 @@
 |---|---|---|
 | 🔑 Keylogger | Herramienta educativa para pruebas de ciberseguridad | [Ver repo](https://github.com/Alvaro-Manzo/keylogger-educativo-remoto) |
 | 🤖 Asistente Virtual | Bot para automatizar tareas y mejorar la eficiencia | [Ver repo](https://github.com/Alvaro-Manzo/asistente-virtual) |
-| 🛠️ HACKING-TOOLS-BOT | Colección de herramientas para hacking ético | [Ver repo](https://github.com/Alvaro-Manzo/HACKING-TOOLS-BOT) |
+| 🛠️ PYTHAGORAS-LIBRARY | Biblioteca en pypi que calcula todo lo relacionado al teorema de pitagoras | [Ver repo](https://github.com/Alvaro-Manzo/PYTHAGORAS_LIBRARY) |
 | 📥 DOWNLOADER-TG-BOT | Descargas automáticas en Telegram | [Ver repo](https://github.com/Alvaro-Manzo/DOWNLOADER-TG-BOT) |
 | 🔎 QR-BOT-TELEGRAM | Generador de códigos QR para Telegram | [Ver repo](https://github.com/Alvaro-Manzo/QR-BOT-TELEGRAM) |
 | 🤖 SPAMMER_BOT | Bot para pruebas de envío masivo | [Ver repo](https://github.com/Alvaro-Manzo/SPAMMER_BOT) |
