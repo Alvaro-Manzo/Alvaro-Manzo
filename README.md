@@ -36,7 +36,7 @@
 - **Ciberseguridad básica** — Pentesting, pruebas y auditorías educativas
 - **Desarrollo de bots para Telegram** — Integración y automatización
 - **Automatización y scripting** — Optimización de procesos y tareas
-- **Machine Learning básico** — Primeros pasos con redes neuronales
+- **Machine Learning básico** — Primeros pasos con redes neuronales.
 
 
 ---
